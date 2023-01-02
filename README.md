@@ -8,7 +8,8 @@ By Prof. Ragunathan Rengasamy   |   IIT Madras
 
 _Course Begin: July 25, 2022  
 Course Exam (Programming Test): September 16, 2022 (Duration of the session will be 3 hrs)  
-Course Exam (Theory Test):  September 25, 2022_  
+Course Exam (Theory Test):  September 25, 2022  
+Course Results: October 14, 2022_  
 
 ---
 
