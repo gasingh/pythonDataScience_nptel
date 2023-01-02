@@ -1,13 +1,16 @@
-# pythonDataScience_nptel
+# Python for Data Science
 Solutions and exemplary problems coded while attending a 4 weeks course in data science using Python offered by Indian Institute of Technology Madras, India.
+
+---
 
 [Python for Data Science](https://onlinecourses.nptel.ac.in/noc22_cs74/course)  
 By Prof. Ragunathan Rengasamy   |   IIT Madras 
 
-_Course Duration: 4 Weeks_  
-Course Begin: July 25, 2022
+_Course Begin: July 25, 2022  
 Course Exam (Programming Test): September 16, 2022 (Duration of the session will be 3 hrs)  
-Course Exam (Theory Test):  September 25, 2022
+Course Exam (Theory Test):  September 25, 2022_  
+
+---
 
 ## Course layout
 
